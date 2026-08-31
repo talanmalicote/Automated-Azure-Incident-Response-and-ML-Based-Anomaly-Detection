@@ -1,4 +1,4 @@
-# Python-SIEM-Monitoring-Platform
+# Automated Azure Incident Response & ML-Based Anomaly Detection
 
 ## Short Intro
 
